@@ -1,0 +1,10 @@
+Homework 1. Deadline 9/6.
+
+1. Tính tuổi của người dựa trên ngày sinh: Viết một chương trình để tính tuổi của người dựa trên ngày sinh nhập vào. 
+2. Kiểm tra chuỗi là pangram hoặc không: Viết một chương trình kiểm tra xem một chuỗi có chứa tất cả các chữ cái trong bảng chữ cái không (chuỗi Pangram). 
+3. Phân tích số thành các thừa số nguyên tố: Viết một chương trình phân tích một số nguyên dương thành các thừa số nguyên tố. 
+4. Tìm dãy con tăng dài nhất trong một danh sách: Viết một chương trình tìm dãy con tăng dài nhất trong một danh sách số nguyên. 
+5. Tính tổng chữ số mũ n của một số nguyên: Viết một chương trình tính tổng các chữ số mũ n của một số nguyên. 
+6. Tìm số hoàn hảo: Viết một chương trình tìm tất cả các số hoàn hảo trong một khoảng số cho trước. 
+7. Tính tổng của dãy Fibonacci: Viết một chương trình tính tổng của dãy Fibonacci có n phần tử. 
+8. Tìm số lẻ xuất hiện lẻ số lần trong một danh sách: Viết một chương trình tìm số lẻ xuất hiện lẻ số lần trong một danh sách số nguyên
